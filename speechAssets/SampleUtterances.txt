@@ -1,0 +1,20 @@
+ListDebtsIntent who do i owe
+ListDebtsIntent who do i owe money
+ListDebtsIntent outstanding payments
+ListDebtsIntent list all my debts
+ListDebtsIntent list all outstanding payments
+
+GetDebtsFromIntent tell me how much i owe {name}
+GetDebtsFromIntent how much do i owe {name}
+GetDebtsFromIntent what do i owe {name}
+GetDebtsFromIntent how much I need to pay {name}
+
+PayDebtsIntent resolve with {name}
+PayDebtsIntent pay {name}
+PayDebtsIntent yes
+PayDebtsIntent yes please
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
