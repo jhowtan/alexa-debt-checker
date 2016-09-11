@@ -4,7 +4,7 @@
 
 ## DebtChecker Alexa Skill
 
-*"A Lannister always pays his debts."*
+*"A Lannister always pays his debts."*  
 *"Be a man, do the right thing."*
 
 The idea was to use Splitwise API to retrieve existing expenses owed to friends.
@@ -93,7 +93,7 @@ My workflow for developing the Alexa skill was as such:
 
 ---
 
-*by Jonathan Tan,*
-*September 11 2016*
-[@jhwtan](https://twitter.com/jhwtan)
+*by Jonathan Tan,*  
+*September 11 2016*  
+[@jhwtan](https://twitter.com/jhwtan)  
 [LinkedIn](https://www.linkedin.com/in/jhowtan)
